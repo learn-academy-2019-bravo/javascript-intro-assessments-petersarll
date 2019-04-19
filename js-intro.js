@@ -9,7 +9,7 @@ var mantra = "Be the dev";
 // 2. Write the code that determines if there is a 'x' in mantra.
 
 // 3. Write the code that determines if there is a 'v' in mantra.
-
+this is a test
 // Stretch: Write the code that returns the position of 'v' in mantra.
 
 
